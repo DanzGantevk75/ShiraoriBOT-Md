@@ -15,16 +15,9 @@ let handler = async (m) => {
 let tqto = `
 *BIG THANKS TO*
 
-Nurutomo: 
-https://github.com/Nurutomo
-Istikmal: 
-https://github.com/BochilGaming
-Ariffb: 
-https://github.com/Ariffb25
-Ilman: 
-https://github.com/ilmanhdyt
-Amirul: 
-https://github.com/amiruldev20
+Danzz (Pembuat Sc) 
+Allah SWT
+Dan Teman² Yang Membantu
 `
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
@@ -36,7 +29,7 @@ https://github.com/amiruldev20
            hydratedButtons: [{
              urlButton: {
                displayText: '💠 Source Code',
-               url: 'https://github.com/ilmanhdyt/ShiraoriBOT-Md'
+               url: 'Chat Owner Aja,Free'
              }
 
            },
